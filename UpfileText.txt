@@ -2,3 +2,8 @@
 
 2017-08-01
 
+เทียบกับ SVN คือ
+pull คือ CheckOut
+push คือ commit 
+commit คือ จะเก็บลง local repository
+
